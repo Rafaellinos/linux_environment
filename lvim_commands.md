@@ -12,3 +12,6 @@
 `:LvimReload` : reloads config
 `:LvimSyncCorePlugins` : install/updates plugins
 `:Lazy sync` : lazy.nvim package manager sync
+
+
+
