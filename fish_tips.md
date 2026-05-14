@@ -6,3 +6,4 @@
 `ctrl+r` : search in history based on current command
 `fish -P` : private, do not share history
 `fish_config` : opens webpage with config options
+
