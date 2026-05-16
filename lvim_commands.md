@@ -1,5 +1,4 @@
-
-
+# lvim/nvim commands
 
 `<leader>e` => `a` : open explorer, create a file
 `]b` : next buffer
@@ -9,12 +8,10 @@
 `gc` : comment code in visual mode
 `ctrl+\` : open and close terminal
 
-
 ## commands
 
 `:LvimReload` : reloads config
 `:LvimSyncCorePlugins` : install/updates plugins
 `:Lazy sync` : lazy.nvim package manager sync
-
 
 
