@@ -33,6 +33,11 @@
 | Key | Action |
 |-----|--------|
 | `<Space>e` | Toggle file explorer |
+| `m` | mark file to mode (while in explorer) |
+| `p` | past file (while in explorer) |
+| `d` | delete file (while in explorer) |
+| `a` | create file/dir (while in explorer) |
+| `r` | rename file/dir (while in explorer) |
 
 ## Terminal (toggleterm)
 
